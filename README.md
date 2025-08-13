@@ -4,29 +4,29 @@ This project implements a Fake News Detection System using Natural Language Proc
 
 Key Features
 
-#Data Preprocessing
+*Data Preprocessing:
 
 Merged author and title into a single text feature.
 
 Removed special characters, converted text to lowercase, removed stopwords, and applied stemming.
 
-#Feature Extraction
+*Feature Extraction:
 
 Used TF-IDF Vectorization to convert text into numerical feature vectors.
 
-#Model Training
+*Model Training:
 
 Applied Logistic Regression to train the classifier.
 
-#Evaluation
+*Evaluation:
 
 Achieved high accuracy on both training and test datasets.
 
-#Prediction System
+*Prediction System :
 
 Detects whether a given news article is real or fake in real time.
 
-#Tech Stack
+*Tech Stack :
 
 Python, Pandas, NumPy
 
